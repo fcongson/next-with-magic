@@ -7,13 +7,13 @@
   },
   "dependencies": {
     "@hapi/iron": "6.0.0",
-    "@magic-sdk/admin": "1.0.0",
-    "cookie": "0.4.0",
-    "magic-sdk": "1.0.1",
+    "@magic-sdk/admin": "1.2.2",
+    "cookie": "0.4.1",
+    "magic-sdk": "2.4.6",
     "next": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "swr": "0.1.16"
+    "swr": "0.2.3"
   },
   "license": "ISC"
 }
